@@ -1,2 +1,1 @@
-Prima versiune
-Modificare in feature-time
+Versiune de bază în main
